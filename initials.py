@@ -1,6 +1,6 @@
 # File: initials.py
 # Description: Print out my initials.
-# Assignment Number: 1
+# Assignment Number: 2
 #
 # Name: LESLIE AWUKU KWAKYE
 # STUDENT ID: 2425403409
