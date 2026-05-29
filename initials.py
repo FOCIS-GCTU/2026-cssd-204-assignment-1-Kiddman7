@@ -21,8 +21,8 @@ def main():
 
     print("...LLLL................AAAAAAAAAAAA........KKKK....KKKK.......")
     print("...LLLL................AAAAAAAAAAAA........KKKK...KKKK........")
-    print("...LLLL................AAAA    AAAA........KKKK..KKKK.........")
-    print("...LLLL................AAAA    AAAA........KKKKKKKKK..........")
+    print("...LLLL................AAAA....AAAA........KKKK..KKKK.........")
+    print("...LLLL................AAAA....AAAA........KKKKKKKKK..........")
     print("...LLLL................AAAAAAAAAAAA........KKKKKKKK...........")
     print("...LLLL................AAAAAAAAAAAA........KKKKKKKKK..........")
     print("...LLLL................AAAA....AAAA........KKKKKKKKKK.........")
