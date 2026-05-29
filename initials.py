@@ -1,11 +1,11 @@
 # File: initials.py
 # Description: Print out my initials.
-# Assignment Number: 1
+# Assignment Number: 2
 #
 # Name: LESLIE AWUKU KWAKYE
 # STUDENT ID: 2425403409
 # Email: 2425403409@live.gctu.edu.gh
-# Grader: Augustus
+# Grader: Augustus Buckman
 #
 # On my honor, LESLIE AWUKU KWAKYE, this programming assignment is my own work
 # and I have not provided this code to any other student.
